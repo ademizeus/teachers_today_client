@@ -1,0 +1,31 @@
+.tittleBox {
+  
+    height: 150px;
+    flex-shrink: 0;
+    position: relative; /* Make it a positioning context for the pseudo-element */
+}
+
+.tittleBox::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(243, 246, 251, 0.5); /* Use RGBA for the background with desired opacity */
+}
+
+.titleText {
+    color: #4D4D4D;
+    font-family: Poppins;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1.12px;
+    z-index: 1; /* Ensure the text is on top of the pseudo-element */
+}
+.searchBarBox{
+    border-radius: 5px;
+background: #F5F7FC;
+}

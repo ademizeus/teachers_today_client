@@ -1,0 +1,686 @@
+[
+    {
+        "id": "1",
+        "area": "Aricha"
+    },
+    {
+        "id": "2",
+        "area": "Ghorashal"
+    },
+    {
+        "id": "3",
+        "area": "Shibpur"
+    },
+    {
+        "id": "4",
+        "area": "Monohardi"
+    },
+    {
+        "id": "5",
+        "area": "Madhabdi"
+    },
+    {
+        "id": "6",
+        "area": "Mirzapur"
+    },
+    {
+        "id": "7",
+        "area": "Dhanbari"
+    },
+    {
+        "id": "8",
+        "area": "Madhupur"
+    },
+    {
+        "id": "9",
+        "area": "Gopalpur"
+    },
+    {
+        "id": "10",
+        "area": "Ghatail"
+    },
+    {
+        "id": "11",
+        "area": "Kalihati"
+    },
+    {
+        "id": "12",
+        "area": "Sakhipur"
+    },
+    {
+        "id": "13",
+        "area": "Bhuapur"
+    },
+    {
+        "id": "14",
+        "area": "Elenga"
+    },
+    {
+        "id": "15",
+        "area": "Karatia"
+    },
+    {
+        "id": "16",
+        "area": "Basail Upazila"
+    },
+    {
+        "id": "17",
+        "area": "Bhairab"
+    },
+    {
+        "id": "18",
+        "area": "Kishoreganj"
+    },
+    {
+        "id": "19",
+        "area": "Pakundia"
+    },
+    {
+        "id": "20",
+        "area": "Manikganj"
+    },
+    {
+        "id": "21",
+        "area": "Munshiganj"
+    },
+    {
+        "id": "22",
+        "area": "Gopalganj"
+    },
+    {
+        "id": "23",
+        "area": "Shariatpur"
+    },
+    {
+        "id": "24",
+        "area": "Madaripur"
+    },
+    {
+        "id": "25",
+        "area": "Rajbari"
+    },
+    {
+        "id": "26",
+        "area": "Baliakandi"
+    },
+    {
+        "id": "27",
+        "area": "Pangsha"
+    },
+    {
+        "id": "28",
+        "area": "Tongi"
+    },
+    {
+        "id": "29",
+        "area": "Sreepur"
+    },
+    {
+        "id": "30",
+        "area": "Chhagalnaiya"
+    },
+    {
+        "id": "31",
+        "area": "Daganbhuiyan"
+    },
+    {
+        "id": "32",
+        "area": "Parshuram"
+    },
+    {
+        "id": "33",
+        "area": "Sonagazi"
+    },
+    {
+        "id": "34",
+        "area": "Debidwar"
+    },
+    {
+        "id": "35",
+        "area": "Bandarban"
+    },
+    {
+        "id": "36",
+        "area": "Khagrachhari"
+    },
+    {
+        "id": "37",
+        "area": "Rangamati"
+    },
+    {
+        "id": "38",
+        "area": "Rangunia"
+    },
+    {
+        "id": "39",
+        "area": "Lohagara"
+    },
+    {
+        "id": "40",
+        "area": "Sandwip"
+    },
+    {
+        "id": "41",
+        "area": "Fatikchhari"
+    },
+    {
+        "id": "42",
+        "area": "Nazir Hat"
+    },
+    {
+        "id": "43",
+        "area": "Baroiyarhat"
+    },
+    {
+        "id": "44",
+        "area": "Mirsharai"
+    },
+    {
+        "id": "45",
+        "area": "Sitakunda"
+    },
+    {
+        "id": "46",
+        "area": "Hathazari"
+    },
+    {
+        "id": "47",
+        "area": "Raozan"
+    },
+    {
+        "id": "48",
+        "area": "Patiya"
+    },
+    {
+        "id": "49",
+        "area": "Brahmanpara Upazila"
+    },
+    {
+        "id": "50",
+        "area": "Chandanaish"
+    },
+    {
+        "id": "51",
+        "area": "Satkania"
+    },
+    {
+        "id": "52",
+        "area": "Boalkhali"
+    },
+    {
+        "id": "53",
+        "area": "Akhaura"
+    },
+    {
+        "id": "54",
+        "area": "Sarail"
+    },
+    {
+        "id": "55",
+        "area": "Chowmuhani"
+    },
+    {
+        "id": "56",
+        "area": "Laksam"
+    },
+    {
+        "id": "57",
+        "area": "Hatiya"
+    },
+    {
+        "id": "58",
+        "area": "Maulvibazar District"
+    },
+    {
+        "id": "59",
+        "area": "Sreemangal"
+    },
+    {
+        "id": "60",
+        "area": "Kulaura"
+    },
+    {
+        "id": "61",
+        "area": "Barlekha"
+    },
+    {
+        "id": "62",
+        "area": "Kamalganj"
+    },
+    {
+        "id": "63",
+        "area": "Maulvibazar"
+    },
+    {
+        "id": "64",
+        "area": "Beanibazar"
+    },
+    {
+        "id": "65",
+        "area": "Sylhet District"
+    },
+    {
+        "id": "66",
+        "area": "Golapganj"
+    },
+    {
+        "id": "67",
+        "area": "Zakiganj"
+    },
+    {
+        "id": "68",
+        "area": "Kanaighat"
+    },
+    {
+        "id": "69",
+        "area": "Bishwanath"
+    },
+    {
+        "id": "70",
+        "area": "Sunamganj District"
+    },
+    {
+        "id": "71",
+        "area": "Sunamganj"
+    },
+    {
+        "id": "72",
+        "area": "Chhatak"
+    },
+    {
+        "id": "73",
+        "area": "Jagannathpur"
+    },
+    {
+        "id": "74",
+        "area": "Dirai"
+    },
+    {
+        "id": "75",
+        "area": "Habiganj District"
+    },
+    {
+        "id": "76",
+        "area": "Habiganj"
+    },
+    {
+        "id": "77",
+        "area": "Nabiganj"
+    },
+    {
+        "id": "78",
+        "area": "Ajmiriganj"
+    },
+    {
+        "id": "89",
+        "area": "Chunarughat"
+    },
+    {
+        "id": "80",
+        "area": "Madhabpur"
+    },
+    {
+        "id": "81",
+        "area": "Shaistaganj"
+    },
+    {
+        "id": "82",
+        "area": "Bagerhat"
+    },
+    {
+        "id": "83",
+        "area": "Alamdanga"
+    },
+    {
+        "id": "84",
+        "area": "Darshana"
+    },
+    {
+        "id": "85",
+        "area": "Meherpur"
+    },
+    {
+        "id": "86",
+        "area": "Magura"
+    },
+    {
+        "id": "87",
+        "area": "Narail"
+    },
+    {
+        "id": "88",
+        "area": "Keshabpur"
+    },
+    {
+        "id": "89",
+        "area": "Kalaroa"
+    },
+    {
+        "id": "90",
+        "area": "Satkhira"
+    },
+    {
+        "id": "91",
+        "area": "Mongla"
+    },
+    {
+        "id": "92",
+        "area": "Noapara"
+    },
+    {
+        "id": "93",
+        "area": "Paikgacha"
+    },
+    {
+        "id": "94",
+        "area": "Benapole"
+    },
+    {
+        "id": "95",
+        "area": "Bheramara"
+    },
+    {
+        "id": "96",
+        "area": "Mujibnagar"
+    },
+    {
+        "id": "97",
+        "area": "Manirampur"
+    },
+    {
+        "id": "98",
+        "area": "Sagardari"
+    },
+    {
+        "id": "99",
+        "area": "Lohagara"
+    },
+    {
+        "id": "100",
+        "area": "Kaliganj"
+    },
+    {
+        "id": "101",
+        "area": ""
+    },
+    {
+        "id": "102",
+        "area": "Sharsha"
+    },
+    {
+        "id": "103",
+        "area": "Maheshpur"
+    },
+    {
+        "id": "104",
+        "area": "Chalna"
+    },
+    {
+        "id": "105",
+        "area": "Shalikha"
+    },
+    {
+        "id": "106",
+        "area": "Bhola"
+    },
+    {
+        "id": "107",
+        "area": "Patuakhali"
+    },
+    {
+        "id": "108",
+        "area": "Pirojpur"
+    },
+    {
+        "id": "109",
+        "area": "Jhalokati"
+    },
+    {
+        "id": "110",
+        "area": "Barguna"
+    },
+    {
+        "id": "111",
+        "area": "Amtali"
+    },
+    {
+        "id": "112",
+        "area": "Bakerganj"
+    },
+    {
+        "id": "113",
+        "area": "Char Fasson"
+    },
+    {
+        "id": "114",
+        "area": "Gournadi"
+    },
+    {
+        "id": "115",
+        "area": "Swarupkati"
+    },
+    {
+        "id": "116",
+        "area": "Kuakata"
+    },
+    {
+        "id": "117",
+        "area": "Muwallad"
+    },
+    {
+        "id": "118",
+        "area": "Bhandaria"
+    },
+    {
+        "id": "119",
+        "area": "Mathbaria"
+    },
+    {
+        "id": "120",
+        "area": "Lalmohan"
+    },
+    {
+        "id": "121",
+        "area": "Borhanuddin"
+    },
+    {
+        "id": "122",
+        "area": "Daulatkhan"
+    },
+    {
+        "id": "123",
+        "area": "Banaripara"
+    },
+    {
+        "id": "124",
+        "area": "Mehendiganj"
+    },
+    {
+        "id": "125",
+        "area": "Nalchity"
+    },
+    {
+        "id": "126",
+        "area": "Patharghata"
+    },
+    {
+        "id": "127",
+        "area": "Kalapara"
+    },
+    {
+        "id": "128",
+        "area": "Betagi"
+    },
+    {
+        "id": "129",
+        "area": "Shambhuganj"
+    },
+    {
+        "id": "130",
+        "area": "Muktagachha"
+    },
+    {
+        "id": "131",
+        "area": "Bhaluka"
+    },
+    {
+        "id": "132",
+        "area": "Gouripur"
+    },
+    {
+        "id": "133",
+        "area": "Phulpur"
+    },
+    {
+        "id": "134",
+        "area": "Nandail"
+    },
+    {
+        "id": "135",
+        "area": "Trishal"
+    },
+    {
+        "id": "136",
+        "area": "Gaffargaon"
+    },
+    {
+        "id": "137",
+        "area": "Ishwarganj"
+    },
+    {
+        "id": "138",
+        "area": "Haluaghat"
+    },
+    {
+        "id": "139",
+        "area": "Fulbaria"
+    },
+    {
+        "id": "140",
+        "area": "Netrokona"
+    },
+    {
+        "id": "141",
+        "area": "Sherpur"
+    },
+    {
+        "id": "142",
+        "area": "Joypurhat"
+    },
+    {
+        "id": "143",
+        "area": "Rahanpur"
+    },
+    {
+        "id": "144",
+        "area": "Kalai"
+    },
+    {
+        "id": "145",
+        "area": "Khetlal"
+    },
+    {
+        "id": "146",
+        "area": "Akkelpur"
+    },
+    {
+        "id": "147",
+        "area": "Panchbibi"
+    },
+    {
+        "id": "148",
+        "area": "Mundumala"
+    },
+    {
+        "id": "149",
+        "area": "Naogaon"
+    },
+    {
+        "id": "150",
+        "area": "Natore"
+    },
+    {
+        "id": "151",
+        "area": "Shahjadpur"
+    },
+    {
+        "id": "152",
+        "area": "Ullapara"
+    },
+    {
+        "id": "153",
+        "area": "Iswardi"
+    },
+    {
+        "id": "154",
+        "area": "Santhia"
+    },
+    {
+        "id": "155",
+        "area": "Dhunat"
+    },
+    {
+        "id": "156",
+        "area": "Sherpur, Bogra"
+    },
+    {
+        "id": "157",
+        "area": "anore"
+    },
+    {
+        "id": "158",
+        "area": "Gaibandha"
+    },
+    {
+        "id": "159",
+        "area": "Kurigram"
+    },
+    {
+        "id": "160",
+        "area": "Lalmonirhat"
+    },
+    {
+        "id": "161",
+        "area": "Nilphamari"
+    },
+    {
+        "id": "162",
+        "area": "Panchagarh"
+    },
+    {
+        "id": "163",
+        "area": "Thakurgaon"
+    },
+    {
+        "id": "164",
+        "area": "Saidpur"
+    },
+    {
+        "id": "165",
+        "area": "Ulipur"
+    },
+    {
+        "id": "166",
+        "area": "Nageshwari"
+    },
+    {
+        "id": "167",
+        "area": "Parbatipur"
+    },
+    {
+        "id": "168",
+        "area": "Badarganj"
+    },
+    {
+        "id": "169",
+        "area": "Pirganj"
+    },
+    {
+        "id": "170",
+        "area": "Patgram"
+    },
+    {
+        "id": "171",
+        "area": "Fulbari"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "rakib",
+        "withdraw": "100",
+        "year": "2022"
+    },
+    {
+        "id": 1,
+        "name": "rakib",
+        "withdraw": "300",
+        "year": "2022"
+    },
+    {
+        "id": 1,
+        "name": "rakib",
+        "withdraw": "400",
+        "year": "2023"
+    },
+    {
+        "id": 2,
+        "name": "sajjad",
+        "withdraw": "500",
+        "year": "2022"
+    },
+    {
+        "id": 2,
+        "name": "sajjad",
+        "withdraw": "700",
+        "year": "2023"
+    },
+    {
+        "id": 2,
+        "name": "sajjad",
+        "withdraw": "300",
+        "year": "2023"
+    },
+    {
+        "id": 3,
+        "name": "sakib",
+        "withdraw": "300",
+        "year": "2023"
+    },
+    {
+        "id": 3,
+        "name": "sakib",
+        "withdraw": "100",
+        "year": "2022"
+    },
+    {
+        "id": 3,
+        "name": "sakib",
+        "withdraw": "500",
+        "year": "2022"
+    }
+]

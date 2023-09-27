@@ -1,0 +1,8 @@
+.backgroundImg{
+    background-image: url('https://i.ibb.co/pXWbn8N/Main-Home-Page.png');
+    background-size: 100% 100%;
+    background-position: center;
+    /* Optional: Center the image horizontally and vertically */
+    background-repeat: no-repeat;
+    /* https://infixedu.ischooll.com/public/backEnd/img/login-bg.png */
+}
